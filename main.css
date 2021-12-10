@@ -4,3 +4,8 @@
   color: white;
   font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
 }
+
+.todo {
+  margin-left: 2rem;
+  text-align: center;
+}
